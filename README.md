@@ -1,3 +1,2 @@
 # odin-recipes
-Basic recipe website project
-A basic HTML website showcasing some interesting recipes.
+Basic recipe website project showcasing some interesting recipes.

@@ -1,1 +1,2 @@
 # odin-recipes
+This HTML project is called Odin Recipes, it's shows my level of skill with basic html and it demonstrates that I have a good grasp on the foundation of the Hypertext Markup Language (HTML).
